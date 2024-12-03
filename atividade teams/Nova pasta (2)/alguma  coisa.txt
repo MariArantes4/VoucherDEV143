@@ -1,0 +1,4 @@
+((x>=x-1 and y==5-x) or (z and x==y))                             X=5 e Y=10
+((5>4 and 10==0) or (false and 5 ==10))                             z= false
+((true and false) or (false and false)
+((false ) or (false)) 

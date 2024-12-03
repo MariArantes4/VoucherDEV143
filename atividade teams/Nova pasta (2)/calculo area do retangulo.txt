@@ -1,0 +1,6 @@
+calculo de area do retangulo
+
+b = float (input("base:"))
+h= float (input("altura:"))
+a = (b)*(h)
+print (a)

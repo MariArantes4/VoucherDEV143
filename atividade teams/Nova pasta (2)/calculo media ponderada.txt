@@ -1,0 +1,7 @@
+calculo de média ponderada:
+
+nota_1=float (input("nota: "))
+nota_2=float (input("nota: "))
+nota_3=float (input("nota: "))
+m = ((nota_1 * 1) + (nota_2 * 2) + (nota_3 * 3))/6
+print (m)

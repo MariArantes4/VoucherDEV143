@@ -1,0 +1,5 @@
+quant_pao= int (input("quantidade de pao: "))
+quant_broa= int (input("quantidade de broa: "))
+valor= (quant_pao* 0.12) + (quant_broa* 1.50)
+porcentagem= valor* 0.1
+print (porcentagem)
